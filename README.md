@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# GitHub Search
+
+Searching users on GitHub.
+Project using TypeScript, Redux Toolkit and RTKQuery and Tailwind.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
